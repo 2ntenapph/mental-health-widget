@@ -6,23 +6,6 @@ Designed with care and TypeScript, it's lightweight enough for platforms like Ti
 
 You can try it live here: [spontaneous-elf-fa52b7.netlify.app](https://spontaneous-elf-fa52b7.netlify.app)
 
-## Project Structure
-
-```
-mental-health-widget/
-├── index.html
-├── package.json
-└── src/
-    ├── Questionnaire.ts
-    ├── calculateScores.ts
-    ├── getLevelForCategory.ts
-    ├── main.ts
-    ├── renderQuestionnaire.ts
-    ├── tests.ru.ts
-    ├── ui.ts
-    └── styles.css
-```
-
 ## Installation
 
 1. Clone or download the repository.

@@ -1,6 +1,10 @@
 # Mental Health Widget
 
-This project implements a psychological tests widget designed for embedding into web platforms such as Tilda. The widget supports multilingual functionality (Russian and English).
+Mental health matters. It's a deeply important theme to me, and this widget is my small attempt to make mental wellness more accessible. I built it not as a product, but as a contribution—something simple, embeddable, and useful.
+
+Designed with care and TypeScript, it's lightweight enough for platforms like Tilda, yet thoughtfully structured for maintainability and future growth.
+
+You can try it live here: [spontaneous-elf-fa52b7.netlify.app](https://spontaneous-elf-fa52b7.netlify.app)
 
 ## Project Structure
 
